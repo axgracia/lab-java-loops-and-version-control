@@ -41,6 +41,7 @@ public class Main {
                 smallest = number;
             } else if ( number < secondSmallest && number != smallest) {
                 secondSmallest=number;
+                //testing
             }
         }
 
